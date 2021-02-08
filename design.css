@@ -1,0 +1,151 @@
+header{
+
+
+}
+img{
+	width: 15%;
+	
+}
+body{
+	background-image: url("bc.jpg");
+	background-color: grey;
+}
+
+nav {
+    
+}
+h1{
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 15%;
+	font-family: Arial;
+
+}
+h6{
+	text-align: center;
+	margin-right: 20%;
+	margin-left: 15%;
+	font-size: 20px;
+}
+li{
+	list-style: none;
+	float: right;
+}
+li a{
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul{
+	list-style-type: none;
+	margin-top:3px;
+    margin-right:0%;
+    margin-left: 0%;
+    padding: 4px;
+    overflow: hidden;
+    background-color: #333;
+}
+input[type=text]{
+
+	width: 15%;
+    padding: 10px 20px;
+    margin-top: 5%;
+    margin-left: 40% ;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+
+}
+button{
+	
+	margin-left: 44.5%;
+}
+
+iframe{
+	margin-left: 27%;
+}
+img.p{
+	 border: 5px solid black;
+	 margin-left: 44%;
+	 line-height: 100px;
+}
+h4{
+	font-size: 24px;
+	margin-left: 47%;
+}
+h3{
+	margin-left: 48%;
+	font-size: 22px;
+}
+#select{
+	margin-left: 29%;
+    cursor: pointer
+}
+img.k{
+	
+	width: 15%;
+	border: 5px solid black;
+	margin-left: 45%
+
+}
+h5{
+	margin-left: 45%;
+	font-size: 22px;
+
+}
+h3.i{
+	margin-left: 49%;
+
+}
+#select1{
+	margin-left: 29.4%;
+    cursor: pointer
+}
+
+img.h{
+	width: 17%;
+	border: 5px solid black;
+	margin-left: 45%
+}
+h3.ll{
+	margin-left: 49%;
+}
+h6.o{
+	font-size: 22px;
+	margin-left: 29%;
+}
+#select2{
+	margin-left: 29.4%;
+	cursor: pointer;
+}
+.button{
+	background-color: #4CAF50;
+	float: right;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
+
